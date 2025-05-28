@@ -37,3 +37,43 @@ fraxgut/lpc/
 └─ README.md    ← This file 
 ```
 
+---
+
+## 📖 Documentation
+
+* **[LICENCE.md](i18n/en/LICENCE.md)**
+  Full text of the Christian Public Licence (LPC) v1.0.
+* **[CHANGELOG.md](i18n/en/CHANGELOG.md)**
+  Detailed version history and notable changes.
+* **[CONTRIBUTING.md](CONTRIBUTING.md)** *(coming soon)*
+  Guidelines for translations, errata fixes and amendments.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions —translations, typo corrections, clarifications— via pull requests. Please:
+
+1. 🔄 Fork this repository.
+2. ✏️ Create your branch: `git checkout -b feature/your-change`.
+3. 📝 Update the appropriate files under `i18n/{en,es,etc}/`.
+4. 🔍 Run a quick review to ensure consistency.
+5. 📬 Submit a pull request describing your changes.
+
+---
+
+## 📈 Roadmap
+
+* [x] Initial release v1.0
+* [ ] Add **CONTRIBUTING.md** with style guides
+* [ ] Automate sync of translations via CI
+* [ ] Publish on npm / packagist / Maven Central
+
+---
+
+## ⚖️ Licence
+
+This project is licensed under the **Licentia Publica Christiana (LPC) v1.0**.
+See [LICENCE.md](i18n/en/LICENCE.md) for full terms and conditions.
+
+
