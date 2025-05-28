@@ -24,14 +24,16 @@ This repository features the **Licentia Publica Christiana (LPC) v1.0**, a compl
 ## 📂 Repository Structure
 
 ```text
-fraxgut/lcp/
+fraxgut/lpc/
 ├─ i18n/
 │  ├─ en/       ← English documentation  
-│  │  └─ README.md  
+│  │  └─ README.md ← Overview in English
+|  |  └─ LICENCE.md  ← Full text of the LPC v1.0
+|  |  └─ CHANGELOG.md ← Changes and Versions History  
 │  └─ es/       ← Documentación en Español  
-│     └─ README.md  
-├─ LICENSE.md   ← Texto completo de la LPC v1.0  
-├─ CHANGELOG.md ← Historial de versiones y cambios  
-└─ README.md    ← Este archivo  
+│     └─ LEEME.md  ← Resumen en Español
+|     └─ LICENCIA.md  ← Texto completo de la LPC v1.0  
+|     └─ CAMBIOS.md ← Historial de versiones y cambios
+└─ README.md    ← This file 
 ```
 
