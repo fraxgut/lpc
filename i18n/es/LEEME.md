@@ -8,9 +8,9 @@ Este repositorio alberga el texto de la Licentia Publica Christiana (LPC) versi�
 
 ## Archivos
 
-- **LICENCE.md**: Texto completo de la licencia LPC v1.0.  
-- **README.md**: Descripción del proyecto y directrices.  
-- **CHANGELOG.md**: Registro de cambios e historial de versiones.
+- **LICENCIA.md**: Texto completo de la licencia LPC v1.0.  
+- **LEEME.md**: Descripción del proyecto y directrices.  
+- **CAMBIOS.md**: Registro de cambios e historial de versiones.
 
 ## Contribuciones
 
