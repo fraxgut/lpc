@@ -18,4 +18,4 @@ Se agradecen las contribuciones —como traducciones, correcciones de erratas o 
 
 ## Licencia
 
-Consulte [LICENCE.md](LICENCE.md) para los términos y condiciones completos.
+Consulte [LICENCIA.md](LICENCIA.md) para los términos y condiciones completos.
