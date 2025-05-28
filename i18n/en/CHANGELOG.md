@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to this project will be documented here.
+All notable changes to this project in English will be documented here.
 
 ## [1.0.0] – 2025-05-27
 - Initial release of the Christian Public Licence (LPC) v1.0.  
@@ -9,4 +9,4 @@ All notable changes to this project will be documented here.
 - Established multilingual documentation under **i18n/**:  
   - `i18n/en/README.md` (English)  
   - `i18n/es/LEEME.md` (Español)  
-- Added **CHANGELOG.md** to track future updates.  
+- Added **CHANGELOG.md** to track future updates in English.  
