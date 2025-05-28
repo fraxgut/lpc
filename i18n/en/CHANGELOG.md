@@ -8,5 +8,5 @@ All notable changes to this project will be documented here.
 - Created **root README.md** with overview, repository structure, and language selector.  
 - Established multilingual documentation under **i18n/**:  
   - `i18n/en/README.md` (English)  
-  - `i18n/es/README.md` (Español)  
+  - `i18n/es/LEEME.md` (Español)  
 - Added **CHANGELOG.md** to track future updates.  
